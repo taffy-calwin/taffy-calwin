@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me taffy calwin
 
 I am information technology student actively learning MERN stack and cloud technologies
-<img align="center" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+<img align="right" width="270" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 I’m currently learning DSA and gen AI 
 - ⚡ Fun fact: I know little german and can play guitar
 
